@@ -1,0 +1,53 @@
+*{
+    /* border-style: solid; */
+
+}
+#header{
+   background-color:cyan;
+   font-size: 5em;
+   border-style: solid;
+   border-color: black;
+   border-width: 5px;
+}
+html,body{
+    height: 100%;
+}
+#body{
+   
+    text-align: center;
+
+}
+.bars{
+    height: 100%;
+    width: 150px;
+    vertical-align: top;
+    border-style: solid;
+}
+#leftbar{
+    background-color: lightcoral;
+    display:inline-block;
+    margin: 0px;
+    
+
+}
+#rightbar{
+
+    background-color: lightcoral;
+    display:inline-block;
+    margin:0px;
+
+}
+#textbody{
+
+    display:inline-block;
+    width: 50%;
+    height: 200px;
+    margin: 0px;
+    vertical-align: top;
+
+}
+.text{
+    font-size: 2em;
+    list-style-position: inside;
+}
+
